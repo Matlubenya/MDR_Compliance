@@ -1,0 +1,258 @@
+%PDF-1.3
+1 0 obj
+    <<  /Type /Catalog
+        /Outlines 2 0 R
+        /Pages 3 0 R
+    >>
+endobj
+
+2 0 obj
+    <<
+        /Type /Outlines
+        /Count 0
+    >>
+endobj
+
+3 0 obj
+    <<
+        /Type /Pages
+        /Kids   [ 4 0 R
+                  7 0 R
+                  10 0 R
+                  13 0 R
+                ]
+        /Count 1
+    >>
+endobj
+
+4 0 obj
+    <<
+        /Type /Pages
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 5 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+5 0 obj
+<< /Length 6 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+(------------------------)Tj
+(  Midmark M11 - v1.0.5)'
+(   Total Cycles: 3598)'
+()'
+(      Name: RITTER2 )'
+( Sterilizer ID: V2313228)'
+(   05/08/2024 11:05 AM)'
+()'
+(   BEGIN POUCHES CYCLE)'
+(  Temp:  270 Degrees F)'
+(  Time:    4 Minutes)'
+(   Dry:   30 Minutes)'
+()'
+(     FILLING CHAMBER)'
+()'
+(         HEATING)'
+(  mm:ss  Degrees   PSI)'
+(   0:00  115.5 F   0.0)'
+(   2:00  114.6 F   0.8)'
+(   4:00  128.9 F   3.0)'
+(   6:00  149.9 F   6.0)'
+(   8:00  175.7 F   9.8)'
+(  10:00  202.3 F  13.0)'
+(  12:00  213.8 F   6.6)'
+(  14:00  224.3 F  10.8)'
+(  16:00  228.0 F   7.4)'
+(  18:00  240.1 F  12.4)'
+(  20:00  239.3 F  10.7)'
+(  22:00  251.2 F  16.7)'
+(  24:00  261.8 F  23.0)'
+(  26:00  272.1 F  29.9)'
+()'
+(       STERILIZING)'
+(  mm:ss  Degrees   PSI)'
+(   0:00  271.5 F  29.8)'
+(   1:00  273.3 F  30.2)'
+(   2:00  271.9 F  30.2)'
+(   3:00  272.7 F  30.1)'
+(   4:00  272.0 F  30.2)'
+()'
+(    Min  271.5 F  29.7)'
+(    Max  273.5 F  30.5)'
+()'
+(     VENTING CHAMBER)'
+()'
+(         DRYING)'
+(      Drying Start)'
+(  mm:ss  Degrees   PSI)'
+(   0:00  192.4 F   0.0)'
+(   5:00  191.2 F   0.0)'
+(  10:00  194.1 F   0.0)'
+(  15:00  192.3 F   0.0)'
+(  20:00  189.3 F   0.0)'
+(  25:00  189.1 F   0.0)'
+(  30:00  188.8 F   0.0)'
+(     Drying Complete)'
+()'
+( FILLING:         0:57)'
+( HEATING:        27:20)'
+( STERILIZING:     4:00)'
+( VENTING:         3:32)'
+( DRYING:         30:00)'
+( TOTAL CYCLE: 01:05:49)'
+(     CYCLE COMPLETE)'
+()'
+(  05/08/2024  12:10 PM  )'
+(       ACCEPTED:        )'
+(       REJECTED:        )'
+(   Reason: ____________)'
+( Operator: ____________)'
+    ET
+endstream
+endobj
+
+6 0 obj
+   1729
+endobj
+
+7 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 8 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+8 0 obj
+<< /Length 9 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+    ET
+endstream
+endobj
+
+9 0 obj
+     83
+endobj
+
+10 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 11 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+11 0 obj
+<< /Length 12 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+    ET
+endstream
+endobj
+
+12 0 obj
+     83
+endobj
+
+13 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 14 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+14 0 obj
+<< /Length 15 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+    ET
+endstream
+endobj
+
+15 0 obj
+     83
+endobj
+
+16 0 obj
+    [/PDF /Text]
+endobj
+
+17 0 obj
+    <<
+        /Type /Font
+        /Subtype /Type1
+        /Name /F1
+        /BaseFont /Courier
+        /Encoding /MacRomanEncoding
+    >>
+endobj
+
+xref
+0 18
+0000000000 65535 f
+0000000010 00000 n
+0000000108 00000 n
+0000000186 00000 n
+0000000382 00000 n
+0000000649 00000 n
+0000002436 00000 n
+0000002464 00000 n
+0000002730 00000 n
+0000002871 00000 n
+0000002899 00000 n
+0000003167 00000 n
+0000003310 00000 n
+0000003339 00000 n
+0000003607 00000 n
+0000003750 00000 n
+0000003779 00000 n
+0000003817 00000 n
+
+trailer
+    <<
+      /Size 15
+      /Root 1 0 R
+    >>
+
+startxref
+3983
+    
+%%EOF

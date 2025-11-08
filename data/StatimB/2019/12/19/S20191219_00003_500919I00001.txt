@@ -1,0 +1,20 @@
+STATIM 2000 S203R750
+SN 500919I00001     
+Unit #  :        000
+WATER QUALITY       
+0.0uS / 0.0ppm      
+CYCLE NUMBER  000003
+10:31     19/12/2019
+UNWRAPPED           
+135 C for 3.5 min.  
+CYCLE START     0:00
+CONDITIONING    1:53
+CYCLE ABORTED   1:57
+WATER LEVEL LOW     
+NOT STERILE         
+END TIME        1:57
+
+--------------------
+Digital Signature #
+B490C3893977AB5A
+--------------------

@@ -1,0 +1,20 @@
+STATIM 5000 S501R711
+SN 511018F00076     
+Unit #  :        000
+WATER QUALITY       
+2.3uS / 1.4ppm      
+CYCLE NUMBER  000023
+ 6:41     14/01/2020
+WRAPPED             
+134 C for 6 min.    
+CYCLE START     0:00
+CONDITIONING    4:58
+CYCLE ABORTED  16:30
+WATER LEVEL LOW     
+NOT STERILE         
+END TIME       16:30
+
+--------------------
+Digital Signature #
+BB1D467B797815F9
+--------------------

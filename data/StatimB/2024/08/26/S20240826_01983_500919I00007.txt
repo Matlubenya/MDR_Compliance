@@ -1,0 +1,30 @@
+STATIM 2000 S203R750
+SN 500919I00007     
+Unit #  :        000
+WATER QUALITY       
+0.3uS / 0.1ppm      
+CYCLE NUMBER  001983
+15:05     26/08/2024
+UNWRAPPED           
+135 C for 3.5 min.  
+CYCLE START     0:00
+CONDITIONING    2:01
+PRESSURIZING    2:06
+STERILIZING     3:16
+136.5 C 226kPa  3:16
+136.3 C 226kPa  3:46
+136.3 C 222kPa  4:16
+136.4 C 224kPa  4:46
+136.4 C 225kPa  5:16
+136.4 C 226kPa  5:46
+136.2 C 224kPa  6:16
+136.4 C 227kPa  6:46
+136.4 C 227kPa  6:46
+VENTING         6:46
+AIR DRYING      7:41
+CYCLE COMPLETE  8:07
+
+--------------------
+Digital Signature #
+CBF276D2DB6DE1C2
+--------------------

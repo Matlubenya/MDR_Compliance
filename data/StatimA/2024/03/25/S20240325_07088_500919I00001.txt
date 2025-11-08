@@ -1,0 +1,19 @@
+STATIM 2000 S203R751
+SN 500919I00001     
+Unit #  :        000
+WATER QUALITY       
+0.3uS / 0.1ppm      
+CYCLE NUMBER  007088
+ 6:42     25/03/2024
+UNWRAPPED           
+135 C for 3.5 min.  
+CYCLE START     0:00
+CYCLE ABORTED   2:58
+STOP BUTTON PRESSED 
+NOT STERILE         
+END TIME        2:58
+
+--------------------
+Digital Signature #
+4D4F9A23E6734E4D
+--------------------

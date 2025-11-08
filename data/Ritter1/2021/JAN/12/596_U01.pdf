@@ -1,0 +1,282 @@
+%PDF-1.3
+1 0 obj
+    <<  /Type /Catalog
+        /Outlines 2 0 R
+        /Pages 3 0 R
+    >>
+endobj
+
+2 0 obj
+    <<
+        /Type /Outlines
+        /Count 0
+    >>
+endobj
+
+3 0 obj
+    <<
+        /Type /Pages
+        /Kids   [ 4 0 R
+                  7 0 R
+                  10 0 R
+                  13 0 R
+                ]
+        /Count 2
+    >>
+endobj
+
+4 0 obj
+    <<
+        /Type /Pages
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 5 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+5 0 obj
+<< /Length 6 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+(------------------------)Tj
+(  Midmark M11 - v1.0.0)'
+(    Total Cycles: 596)'
+()'
+(      Name: MIDMARK)'
+( Sterilizer ID: V2178198)'
+(   01/12/2021 08:28 AM)'
+()'
+(    BEGIN PACKS CYCLE)'
+(  Temp:  250 Degrees F)'
+(  Time:   30 Minutes)'
+(   Dry:   30 Minutes)'
+()'
+(     FILLING CHAMBER)'
+()'
+(         HEATING)'
+(  mm:ss  Degrees   PSI)'
+(   0:00   72.9 F   0.0)'
+(   2:00   77.7 F   0.0)'
+(   4:00  117.0 F   0.1)'
+(   6:00  133.1 F   0.2)'
+(   8:00  166.6 F   0.3)'
+(  10:00  190.3 F   2.2)'
+(  12:00  205.1 F   5.6)'
+(  14:00  212.3 F   2.6)'
+(  16:00  224.0 F   5.5)'
+(  18:00  223.9 F   3.9)'
+(  20:00  231.1 F   6.3)'
+(  22:00  234.1 F   7.6)'
+(  24:00  247.2 F  13.5)'
+()'
+(       STERILIZING)'
+(  mm:ss  Degrees   PSI)'
+(   0:00  251.5 F  15.6)'
+(   1:00  252.0 F  15.7)'
+(   2:00  252.7 F  16.1)'
+(   3:00  252.1 F  16.1)'
+(   4:00  251.8 F  15.6)'
+(   5:00  252.8 F  16.2)'
+(   6:00  251.6 F  15.6)'
+(   7:00  252.9 F  16.2)'
+(   8:00  251.7 F  15.6)'
+(   9:00  252.8 F  16.3)'
+(  10:00  252.2 F  15.8)'
+(  11:00  252.0 F  16.0)'
+(  12:00  252.8 F  16.1)'
+(  13:00  251.8 F  15.6)'
+(  14:00  252.6 F  16.3)'
+(  15:00  252.7 F  16.1)'
+(  16:00  251.8 F  15.6)'
+(  17:00  252.6 F  16.3)'
+(  18:00  252.7 F  16.1)'
+(  19:00  251.9 F  15.7)'
+(  20:00  252.2 F  16.1)'
+(  21:00  252.9 F  16.2)'
+(  22:00  252.1 F  15.8)'
+(  23:00  251.7 F  15.8)'
+(  24:00  253.0 F  16.3)'
+(  25:00  252.4 F  16.0)'
+(  26:00  251.7 F  15.6)'
+(  27:00  252.6 F  16.3)'
+(  28:00  252.8 F  16.2)'
+(  29:00  252.1 F  15.8)'
+(  30:00  251.6 F  15.7)'
+()'
+(    Min  251.5 F  15.5)'
+(    Max  253.0 F  16.3)'
+()'
+(     VENTING CHAMBER)'
+()'
+(         DRYING)'
+(      Drying Start)'
+(  mm:ss  Degrees   PSI)'
+(   0:00  174.2 F   0.0)'
+(   5:00  184.4 F   0.0)'
+(  10:00  185.9 F   0.0)'
+(  15:00  186.6 F   0.0)'
+(  20:00  188.5 F   0.0)'
+(  25:00  190.0 F   0.0)'
+(  30:00  170.1 F   0.0)'
+    ET
+endstream
+endobj
+
+6 0 obj
+   2038
+endobj
+
+7 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 8 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+8 0 obj
+<< /Length 9 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+(     Drying Complete)'
+()'
+( FILLING:         0:48)'
+( HEATING:        25:16)'
+( STERILIZING:    30:00)'
+( VENTING:         2:46)'
+( DRYING:         30:00)'
+( TOTAL CYCLE: 01:28:51)'
+(     CYCLE COMPLETE)'
+()'
+(  01/12/2021  09:56 AM  )'
+(       ACCEPTED: X      )'
+(       REJECTED:        )'
+(      Operator: U01     )'
+    ET
+endstream
+endobj
+
+9 0 obj
+    420
+endobj
+
+10 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 11 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+11 0 obj
+<< /Length 12 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+    ET
+endstream
+endobj
+
+12 0 obj
+     83
+endobj
+
+13 0 obj
+    <<
+        /Type /Page
+        /Parent 3 0 R
+        /PZ 75
+        /MediaBox [0 0 600 770]
+        /Contents 14 0 R
+        /Resources  <<  /ProcSet 16 0 R
+                        /Font << /F1 17 0 R >>
+                    >>
+    >>
+endobj
+
+14 0 obj
+<< /Length 15 0 R>>
+stream
+    BT
+        /F1 9 Tf
+        9 TL
+        .5 Tc
+        225 760 Td
+    ET
+endstream
+endobj
+
+15 0 obj
+     83
+endobj
+
+16 0 obj
+    [/PDF /Text]
+endobj
+
+17 0 obj
+    <<
+        /Type /Font
+        /Subtype /Type1
+        /Name /F1
+        /BaseFont /Courier
+        /Encoding /MacRomanEncoding
+    >>
+endobj
+
+xref
+0 18
+0000000000 65535 f
+0000000010 00000 n
+0000000108 00000 n
+0000000186 00000 n
+0000000382 00000 n
+0000000649 00000 n
+0000002745 00000 n
+0000002773 00000 n
+0000003039 00000 n
+0000003517 00000 n
+0000003545 00000 n
+0000003813 00000 n
+0000003956 00000 n
+0000003985 00000 n
+0000004253 00000 n
+0000004396 00000 n
+0000004425 00000 n
+0000004463 00000 n
+
+trailer
+    <<
+      /Size 15
+      /Root 1 0 R
+    >>
+
+startxref
+4629
+    
+%%EOF

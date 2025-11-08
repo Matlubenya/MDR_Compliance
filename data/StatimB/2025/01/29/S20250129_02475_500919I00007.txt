@@ -1,0 +1,18 @@
+STATIM 2000 S203R750
+SN 500919I00007     
+Unit #  :        000
+WATER QUALITY       
+0.2uS / 0.1ppm      
+CYCLE NUMBER  002475
+14:02     29/01/2025
+AIR DRYING ONLY     
+60 min. MAXIMUM     
+CYCLE START     0:00
+AIR DRYING      0:08
+CYCLE COMPLETE      
+             1:00:08
+
+--------------------
+Digital Signature #
+9C971CA5431167AF
+--------------------
